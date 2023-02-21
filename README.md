@@ -3,4 +3,4 @@ yo im skyxuji, a python developer working on a discord python bot project under 
 
 i specialize in 
 - python
-- roblox studios 
+
